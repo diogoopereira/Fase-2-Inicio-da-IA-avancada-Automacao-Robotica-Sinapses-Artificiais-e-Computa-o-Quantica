@@ -59,12 +59,12 @@ Os notebooks já estão salvos com as saídas, então dá para ver todos os resu
 ```bash
 git clone <url-deste-repositorio>
 cd CardioIA-Fase2
-python -m venv .venv && source .venv/bin/activate
+python3.12 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 ```
 
-Cada notebook lê os arquivos da própria pasta. No **Google Colab**, envie para o ambiente o `.ipynb` junto com os arquivos `.txt` e `.csv` da mesma pasta. O notebook do Ir Além 2 baixa os dados sozinho.
+Use **Python 3.10 a 3.13**: o TensorFlow, usado no Ir Além 2, ainda não suporta o 3.14. Cada notebook lê os arquivos da própria pasta. No **Google Colab**, envie para o ambiente o `.ipynb` junto com os arquivos `.txt` e `.csv` da mesma pasta. O notebook do Ir Além 2 baixa os dados sozinho.
 
 ---
 
