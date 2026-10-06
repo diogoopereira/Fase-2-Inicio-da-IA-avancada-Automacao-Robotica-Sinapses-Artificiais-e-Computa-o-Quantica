@@ -1,0 +1,5 @@
+ir-alem-2/dados/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store

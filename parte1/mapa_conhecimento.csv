@@ -1,0 +1,35 @@
+sintoma_1,sintoma_2,doenca_associada
+dor no peito,aperto no tórax,Infarto agudo do miocárdio
+dor forte no peito,dor no peito em repouso,Infarto agudo do miocárdio
+irradia para o braço,dor no braço esquerdo,Infarto agudo do miocárdio
+suor frio,náusea,Infarto agudo do miocárdio
+dor na mandíbula,sensação de morte,Infarto agudo do miocárdio
+falta de ar,dificuldade para respirar,Angina estável
+aperto no peito,dor no peito ao esforço,Angina estável
+subo escadas,piora com esforço,Angina estável
+melhora com repouso,passa quando descanso,Angina estável
+cansaço constante,fadiga,Insuficiência cardíaca
+pernas inchadas,tornozelos inchados,Insuficiência cardíaca
+falta de ar ao deitar,acordo sem ar,Insuficiência cardíaca
+vários travesseiros,falta de ar aos esforços,Insuficiência cardíaca
+coração disparado,palpitações,Fibrilação atrial
+batimentos irregulares,coração acelerado,Fibrilação atrial
+coração falhando,pulso irregular,Fibrilação atrial
+batimentos lentos,pulso fraco,Bradicardia
+tontura,fraqueza,Bradicardia
+quase caí,vista escura,Bradicardia
+dor de cabeça na nuca,pressão alta,Hipertensão arterial
+visão embaçada,zumbido no ouvido,Hipertensão arterial
+sangramento no nariz,dor de cabeça forte,Hipertensão arterial
+piora ao respirar fundo,inclino para frente,Pericardite
+piora ao deitar,febre,Pericardite
+depois de uma gripe,melhora sentado,Pericardite
+virose,febre,Miocardite
+cansaço extremo,palpitações,Miocardite
+depois de uma gripe,dor no peito,Miocardite
+desmaiei,desmaio durante exercício,Cardiomiopatia hipertrófica
+morte súbita,falta de ar ao correr,Cardiomiopatia hipertrófica
+durante o treino,palpitações,Cardiomiopatia hipertrófica
+falta de ar súbita,dor ao respirar,Embolia pulmonar
+panturrilha inchada,perna inchada,Embolia pulmonar
+viagem de avião,tosse com sangue,Embolia pulmonar
