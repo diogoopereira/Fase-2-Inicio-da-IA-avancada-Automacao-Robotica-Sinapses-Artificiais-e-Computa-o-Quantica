@@ -29,6 +29,16 @@ Na **Fase 2** do CardioIA simulamos o "estetoscópio digital": um módulo que l�
 - Diogo Ferreira Pereira
 - André Victor Gonçalves Toledo
 
+## Professores
+
+### Tutor
+
+- Leonardo Ruiz Orabona
+
+### Coordenador
+
+- André Godoi Chiovato
+
 ---
 
 ## Estrutura do repositório
