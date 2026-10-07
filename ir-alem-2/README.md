@@ -6,7 +6,7 @@ Rede neural **MLP (Perceptron Multicamadas)** em **Keras** que classifica imagen
 
 ## Vídeo de demonstração
 
-[Assista no YouTube](COLE_AQUI_O_LINK_DO_VIDEO_IR_ALEM_2)
+[Assista no YouTube](https://youtu.be/ANSQl3UqD_k)
 
 ## Arquivos
 
