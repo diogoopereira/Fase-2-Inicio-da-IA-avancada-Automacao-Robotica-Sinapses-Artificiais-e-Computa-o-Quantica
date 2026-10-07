@@ -16,7 +16,7 @@ Na **Fase 2** do CardioIA simulamos o "estetoscópio digital": um módulo que l�
 
 ## Vídeo de demonstração
 
-- **Fase 2 (Partes 1 e 2):** [assista no YouTube](COLE_AQUI_O_LINK_DO_VIDEO)
+- **Fase 2 (Partes 1 e 2):** [assista no YouTube]((https://youtu.be/lD8X5Hb3fQE))
 - **Ir Além 2:** link no [README do Ir Além 2](ir-alem-2/README.md)
 
 ---
